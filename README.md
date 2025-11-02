@@ -1,4 +1,4 @@
-# Cloud-Based-CRM-ETL-to-PowerBI-Integration
+# Decision Support System for a Real Estate Company
 
 A full-stack BI solution that uses Python webhooks to stream CRM events into a PostgreSQL database hosted on Render, powering automated and on-demand Power BI dashboards for a real estate company.
 
